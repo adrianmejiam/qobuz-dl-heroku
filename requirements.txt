@@ -13,3 +13,4 @@ loguru
 python-dotenv
 pyAesCrypt
 ffmpeg-python
+qobuz-dl==0.4.2
