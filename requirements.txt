@@ -14,3 +14,7 @@ python-dotenv
 pyAesCrypt
 ffmpeg-python
 qobuz-dl==0.4.2
+django>=5.2,<5.3
+gunicorn>=23,<24
+dj-database-url>=3,<4
+whitenoise>=6,<7
